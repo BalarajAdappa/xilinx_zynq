@@ -1,0 +1,1 @@
+cmd_/home/osrc/xilinx/work/vdma/vdma.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/osrc/xilinx/work/vdma/vdma.ko /home/osrc/xilinx/work/vdma/vdma.o /home/osrc/xilinx/work/vdma/vdma.mod.o ;  true

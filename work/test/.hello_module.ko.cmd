@@ -1,0 +1,1 @@
+cmd_/home/osrc/xilinx/work/test/hello_module.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T /home/osrc/xilinx/04-Linux_Source/Kernel/linux-xlnx/scripts/module-common.lds --build-id  -o /home/osrc/xilinx/work/test/hello_module.ko /home/osrc/xilinx/work/test/hello_module.o /home/osrc/xilinx/work/test/hello_module.mod.o

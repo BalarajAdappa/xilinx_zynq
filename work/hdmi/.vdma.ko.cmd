@@ -1,0 +1,1 @@
+cmd_/home/osrc/xilinx/work/hdmi/vdma.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/osrc/xilinx/work/hdmi/vdma.ko /home/osrc/xilinx/work/hdmi/vdma.o /home/osrc/xilinx/work/hdmi/vdma.mod.o

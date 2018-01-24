@@ -1,0 +1,6 @@
+!.gitignore
+*.o
+*.dll
+*.exe
+!release/*
+

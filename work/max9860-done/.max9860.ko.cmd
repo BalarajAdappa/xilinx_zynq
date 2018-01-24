@@ -1,0 +1,1 @@
+cmd_/home/osrc/xilinx/work/max9860-done/max9860.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/osrc/xilinx/work/max9860-done/max9860.ko /home/osrc/xilinx/work/max9860-done/max9860.o /home/osrc/xilinx/work/max9860-done/max9860.mod.o ;  true
